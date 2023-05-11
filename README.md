@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Oliveros</h1>
-<h3 align="center">A Data analysts</h3>
+<h3 align="center">Passionate about solving problems using technology.</h3>
 
 - 🌱 I’m currently learning **machine learning, computer vision and graph analysis**
 
