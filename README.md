@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **machine learning, computer vision and graph analysis**
 
-- 🤝 I’m looking for help with **Computer vision and graph analysis**
+- 🤝 I’m looking for help with **graph analysis and machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexoliveros92](https://github.com/alexoliveros92)
 
